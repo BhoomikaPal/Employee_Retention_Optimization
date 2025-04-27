@@ -1,4 +1,3 @@
-```markdown
 # Employee Retention Optimization
 
 ## Project Title:
